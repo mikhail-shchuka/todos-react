@@ -2,7 +2,7 @@
 
 This is a to-do list to-do application with the ability to track progress written using React. The application is connected to the server to save the user and the to-do list of a particular user. Binds to localStorage to save the state of the application when the page is reloaded. Also implemented the ability to change the theme of the application (the default browser theme is set).
 
-The web application is adapted for both desctop and touchscreen devices.
+The web application is adapted for both desktop and touchscreen devices.
 
 [DEMO LINK](https://mikhail-shchuka.github.io/react_todo-app/)
 
